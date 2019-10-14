@@ -1,0 +1,7 @@
+.dockerignore
+
+explicitly-ignored.dockerfile
+*.ignore.dockerfile
+**/glob-two-star-ignore
+explicitly-ignored-dir
+glob-one-star-ignore/*
